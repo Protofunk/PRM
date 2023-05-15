@@ -1,0 +1,16 @@
+{
+"companyName": "Musarium",
+"productName": "Pocket_Railway_Museum_Gamercial",
+"productVersion": "0.2",
+"dataUrl": "PRM_WebCatalog.data.unityweb",
+"wasmCodeUrl": "PRM_WebCatalog.wasm",
+"wasmFrameworkUrl": "PRM_WebCatalog.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}
